@@ -3,6 +3,7 @@
 Neural Noir is an innovative AI-powered detective game where every case is unique, and you're always the star detective.
 
 ## Table of Contents
+0. [Video](#video)
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [How It Works](#how-it-works)
@@ -10,6 +11,9 @@ Neural Noir is an innovative AI-powered detective game where every case is uniqu
 5. [Gameplay](#gameplay)
 6. [Technical Details](#technical-details)
 7. [Contributing](#contributing)
+
+## Video
+[![Watch the video](https://img.youtube.com/vi/tAHpsxYZ3cQ&t/maxresdefault.jpg)](https://youtu.be/tAHpsxYZ3cQ&t)
 
 ## Introduction
 
