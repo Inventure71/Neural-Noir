@@ -13,7 +13,7 @@ Neural Noir is an innovative AI-powered detective game where every case is uniqu
 7. [Contributing](#contributing)
 
 ## Video
-[![Watch the video](https://img.youtube.com/vi/tAHpsxYZ3cQ&t/maxresdefault.jpg)](https://youtu.be/tAHpsxYZ3cQ&t)
+[![Watch the video](https://img.youtube.com/vi/tAHpsxYZ3cQ/maxresdefault.jpg)](https://youtu.be/tAHpsxYZ3cQ)
 
 ## Introduction
 
